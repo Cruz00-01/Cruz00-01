@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Muhamad Fahad</strong>
+  Hi, I'm <strong>Mohammed sayeed </strong>
 </h1>
 
 <h3>MERN Stack Developer | MERN </h3>
@@ -31,15 +31,15 @@
 
   
 
-  <a href="https://github.com/Muhamad-Fahad01">
+  <a href="https://github.com/Cruz00-01">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/fah.add._/">
+  <a href="https://www.instagram.com/_zyd.shh/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/muhamad-fahad-8828682a6/">
+  <a href="https://www.linkedin.com/in/mohammed-sayeed-338780373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -104,4 +104,5 @@
 </div>
 
 ---
+
 
